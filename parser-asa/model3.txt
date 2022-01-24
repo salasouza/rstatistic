@@ -1,0 +1,1 @@
+~ bloc + trat + dose + (bloc + trat + dose)^2
